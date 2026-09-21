@@ -1,0 +1,4 @@
+Product_A,Product_B,Co_occurrence_Count,Support,Confidence_A_to_B,Confidence_B_to_A,Lift,Interpretation
+KIDS RAIN MAC BLUE,KIDS RAIN MAC PINK,104,0.005521635,0.852459,0.8062016,124.46562,Very strong positive association; suitable for a paired recommendation.
+CAST IRON HOOK GARDEN FORK,CAST IRON HOOK GARDEN TROWEL,137,0.007273693,0.883871,0.883871,107.40458,Strong complementary gardening-tool relationship.
+84559B,84559A,96,0.005096894,0.6486486,0.6666667,84.84234,Strong product-code association; use the product description mapping in the full run.
